@@ -5,7 +5,8 @@ Final project after fullstack course. The project is a collaboration of a team o
 ## Table Of Contents <a name="Table"></a>
 - [Table Of Contents](#Table)
 - [Why it made and why you should use it](#why)
-- [How to run](#run)
+- [How to run](#run)  Examplevideo
+- [Example video](#Examplevideo)
 - [Screenshots](#Screenshots)
 - [Technologies](#Technologies)
 - [What next](#next)
@@ -25,43 +26,47 @@ In the project directory, you can run:
 
 4.Navigate to `http://localhost:3000`.
 
-
+## Example video <a name="Examplevideo"></a>
 
 https://user-images.githubusercontent.com/40337277/204361303-195fcb8a-b78d-4037-8522-e414416d4436.mp4
 
 
 ## Screenshots <a name="Screenshots"></a>
 
-![alt text]([https://res.cloudinary.com/dxexnhjmi/image/upload/v1667253853/homepage_xwocny.png](https://res.cloudinary.com/ddc7x3lb6/video/upload/v1669661596/beLink/1_1_goh6nb.mp4))
+Welcome
+
+
+![alt text](https://res.cloudinary.com/ddc7x3lb6/image/upload/v1669661594/beLink/1_13_qlraa3.jpg)
+
+
+Register
+
+
+![alt text](https://res.cloudinary.com/ddc7x3lb6/image/upload/v1669661594/beLink/1_7_bsw3ya.jpg)
+
+![alt text](https://res.cloudinary.com/ddc7x3lb6/image/upload/v1669661595/beLink/1_5_p9m1mt.jpg)
+
 
 Login
 
-
-![alt text](https://res.cloudinary.com/dxexnhjmi/image/upload/v1667253969/homepage_qvlefk.png)
-
-
-Catgories
-
-![alt text](https://res.cloudinary.com/dxexnhjmi/image/upload/v1667254190/homepage_pmjuds.png)
-
-![alt text](https://res.cloudinary.com/dxexnhjmi/image/upload/v1667254041/homepage_bcgxol.png)
-
-![alt text](https://res.cloudinary.com/dxexnhjmi/image/upload/v1667254113/homepage_kpww7l.png)
+![alt text](https://res.cloudinary.com/ddc7x3lb6/image/upload/v1669661595/beLink/1_4_zdtuvg.jpg)
 
 
-Proudcts
+Home page
 
-![alt text](https://res.cloudinary.com/dxexnhjmi/image/upload/v1667254328/homepage_phnqua.png)
+![alt text](https://res.cloudinary.com/ddc7x3lb6/image/upload/v1669661595/beLink/1_12_tqf4br.jpg)
 
-![alt text](https://res.cloudinary.com/dxexnhjmi/image/upload/v1667254408/homepage_mvq5ox.png)
 
-Add proudcts
+Match
 
-![alt text](https://res.cloudinary.com/dxexnhjmi/image/upload/v1667254464/homepage_xcl2n9.png)
+![alt text](https://res.cloudinary.com/ddc7x3lb6/image/upload/v1669661594/beLink/1_10_lniysn.jpg)
 
-Show all auction
+![alt text](https://res.cloudinary.com/ddc7x3lb6/image/upload/v1669661595/beLink/1_2_fzuoja.jpg)
 
-![alt text](https://res.cloudinary.com/dxexnhjmi/image/upload/v1667254630/homepage_znyxjf.png)
+Chat
+
+![alt text](https://res.cloudinary.com/ddc7x3lb6/image/upload/v1669661595/beLink/1_14_feepjf.jpg)
+
 
 ## Technologies <a name="Technologies"></a>
    Client:
@@ -93,6 +98,8 @@ Show all auction
    -mongoDB
    
 ## What next <a name="next"></a>
-- Advertising and opening to the public
+- Advertising and opening to public
 
-- Deploy to Multi-user services
+- Deploy 
+
+- Fix bugs
