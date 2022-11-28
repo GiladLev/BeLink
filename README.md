@@ -1,6 +1,6 @@
 # Auction store
 
-Final project after Polestack course. The project is a collaboration of a team of five programmers. Gilad Lev Sagi Barbi Ruby Gorgi and Rani Lang. After researching and understanding that the world of recruiting for companies requires a lot of effort and prevents many people from exposing themselves even though they are coordinating. That's why we decided to build BELINK, an application that enables a connection between a company and a potential employee. The matching process is carried out on the basis of an initial questionnaire, after which we weigh the questions and run them in a matching algorithm that we built. If there is a match, we send the recruit an invitation to contact and start a chat.
+Final project after fullstack course. The project is a collaboration of a team of five programmers. Gilad Lev Sagi Barbi Ruby Gorgi and Rani Lang. After researching and understanding that the world of recruiting for companies requires a lot of effort and prevents many people from exposing themselves even though they are coordinating. That's why we decided to build BELINK, an application that enables a connection between a company and a potential employee. The matching process is carried out on the basis of an initial questionnaire, after which we weigh the questions and run them in a matching algorithm that we built. If there is a match, we send the recruit an invitation to contact and start a chat.
 
 ## Table Of Contents <a name="Table"></a>
 - [Table Of Contents](#Table)
@@ -12,8 +12,7 @@ Final project after Polestack course. The project is a collaboration of a team o
 
 
 ## Why it made and why you should use it <a name="why"></a>
-A fast and convenient website for linking and advertising a product to the general public
-
+Easing the recruitment process and opening opportunities for people to differentiate themselves in a simple and easy way.
 
 ## Running the project <a name="run"></a>
 In the project directory, you can run:
