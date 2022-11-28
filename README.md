@@ -26,6 +26,10 @@ In the project directory, you can run:
 4.Navigate to `http://localhost:3000`.
 
 
+
+https://user-images.githubusercontent.com/40337277/204361303-195fcb8a-b78d-4037-8522-e414416d4436.mp4
+
+
 ## Screenshots <a name="Screenshots"></a>
 
 ![alt text]([https://res.cloudinary.com/dxexnhjmi/image/upload/v1667253853/homepage_xwocny.png](https://res.cloudinary.com/ddc7x3lb6/video/upload/v1669661596/beLink/1_1_goh6nb.mp4))
