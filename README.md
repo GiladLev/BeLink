@@ -1,4 +1,4 @@
-# Auction store
+# BeLink
 
 Final project after fullstack course. The project is a collaboration of a team of five programmers. Gilad Lev Sagi Barbi Ruby Gorgi and Rani Lang. After researching and understanding that the world of recruiting for companies requires a lot of effort and prevents many people from exposing themselves even though they are coordinating. That's why we decided to build BELINK, an application that enables a connection between a company and a potential employee. The matching process is carried out on the basis of an initial questionnaire, after which we weigh the questions and run them in a matching algorithm that we built. If there is a match, we send the recruit an invitation to contact and start a chat.
 
@@ -28,7 +28,7 @@ In the project directory, you can run:
 
 ## Screenshots <a name="Screenshots"></a>
 
-![alt text](https://res.cloudinary.com/dxexnhjmi/image/upload/v1667253853/homepage_xwocny.png)
+![alt text]([https://res.cloudinary.com/dxexnhjmi/image/upload/v1667253853/homepage_xwocny.png](https://res.cloudinary.com/ddc7x3lb6/video/upload/v1669661596/beLink/1_1_goh6nb.mp4))
 
 Login
 
@@ -89,6 +89,6 @@ Show all auction
    -mongoDB
    
 ## What next <a name="next"></a>
-- Connection to a payment service
+- Advertising and opening to the public
 
-- Adding a chat bot
+- Deploy to Multi-user services
